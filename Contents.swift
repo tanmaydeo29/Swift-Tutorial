@@ -108,3 +108,4 @@ print(true || false)      // returns true
 print(!true)                  // returns false
 
 
+print("Using terminal to commit changes")
