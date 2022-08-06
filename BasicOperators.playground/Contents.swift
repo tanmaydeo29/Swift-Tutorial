@@ -96,3 +96,6 @@ print(true && false)     // returns false
 print(true || false)      // returns true
 // 3. Logical NOT   // Negation
 print(!true)                  // returns false
+
+
+print("Changed using terminal")
