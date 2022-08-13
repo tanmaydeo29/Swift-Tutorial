@@ -8,7 +8,7 @@ var variable = 10
 variable = variable + 1 ; // a has changed from 10 to 11 , so used "var" keyword
 print(variable)
 
-// Constants : Entities that remain constant(ie do not change) eg. Maximum values will never change! and declared by "let" keyword!
+// Constants : Entities that remain constant(ie do not change) eg. Maximum values will never change! and is declared by "let" keyword!
 let constant = 6 ;
 // (constant = constant + 1) --> This statement will give an error
 print(constant)

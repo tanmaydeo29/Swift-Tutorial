@@ -33,7 +33,7 @@ else{
 
 var d = 29.5
 if (d >= 10){                                                                  // this statement is true
-    print("The value of d is surelt greater than or equal to 10 , Cheers!!")   // this will be printed
+    print("The value of d is surely greater than or equal to 10 , Cheers!!")   // this will be printed
 }
 else{
     print("🤨")

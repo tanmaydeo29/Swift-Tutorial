@@ -2,7 +2,9 @@ import UIKit
 
 var a = 10
 // The value of a is 10 , swift understands the type of input
-// But if we want to provide a type annotation to clear about the values to be stores in the variable then ,
+// But if we want to provide a type annotation to clear about the values to be stored in the variable then ,
+
+// var/let variable_name : DataType
 
 //Int
 var intt : Int
